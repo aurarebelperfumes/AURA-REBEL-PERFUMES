@@ -1,0 +1,6 @@
+{
+  "name": "Aura Rebel Perfume",
+  "description": "An exquisite e-commerce experience for Aura Rebel Perfume, showcasing rebellious perfume scent profiles, collections, shopping experiences, about, and contacting capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
